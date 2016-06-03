@@ -2,7 +2,7 @@ import pygame
 
 def main():
     
-    print 'hi'
+    print 'ho'
     return 0
 
 main()
